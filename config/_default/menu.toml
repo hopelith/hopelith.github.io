@@ -22,3 +22,19 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/username"
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/@username"
+
+[social.params]
+icon = "brand-youtube"
