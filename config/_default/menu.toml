@@ -10,10 +10,18 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/hopelith"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com"
+
+[social.params]
+icon = "brand-instagram"
 
 [[social]]
 identifier = "twitter"
@@ -22,3 +30,11 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com"
+
+[social.params]
+icon = "brand-youtube"
