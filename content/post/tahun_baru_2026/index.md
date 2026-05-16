@@ -5,7 +5,7 @@ slug: hello-world
 date: 2026-01-03 00:00:00+0000
 #image: cover.jpg
 categories:
-    - LifeJourney
+    - life journey
 tags:
     - Life
     - journey
